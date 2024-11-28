@@ -57,6 +57,7 @@ The IETF requires the management of its infrastructure to be automated, transpar
 * Where reasonable, it should be possible for any member of the IETF community to build a replica of any IETF service, with placeholder information available to replace any confidential information.
 * Active response to community contributions both on mailing lists and through a formal change management system (e.g. GitHub Pull Requests).
 
+## Secure and enduring services and data
 Secure and enduring services and data
 The IETF is vulnerable to the same threats as any other organisation and needs to mitigate those at many levels. The threat model for the IETF is unusual with more of an emphasis on data integrity and preserving the accuracy and availability of historical data, than on protecting confidential information.  Where the IETF does collect highly confidential information, such as for the NomCom process, every effort is made to compartmentalise that.  Additionally, the IETF receives significant nuisance traffic (as a proportion of overall traffic).
 
